@@ -6,4 +6,6 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 
 ==自由、民主、科学==
 
-+ 自由
++ 自由 
++ 民主
++ 科学
