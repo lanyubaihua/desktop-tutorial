@@ -7,17 +7,27 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 ==自由、民主、科学==
 
 + 自由 
+
 + 民主
+
 + 科学
+
 + 民族
+
 + 和谐
+
 + 幸福
+
 + 平安
+
 + 健康
 
 + 和平
 
 + 生活
+
 + 永远
+
++ 开心
 
   
